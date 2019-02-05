@@ -1,0 +1,4 @@
+rm $1 
+ls
+gcc client.c -g -Wall -W -o JesusSaves
+./JesusSaves $1

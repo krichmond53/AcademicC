@@ -1,0 +1,2 @@
+gcc block_thread.c -Wall -W -g -o  JesusSaves -lm -lrt -pthread
+./JesusSaves

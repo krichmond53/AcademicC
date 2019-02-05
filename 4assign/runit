@@ -1,0 +1,2 @@
+gcc krshell.c -Wall -W -g -o  JesusSaves 
+./JesusSaves $1 $2

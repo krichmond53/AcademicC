@@ -1,0 +1,8 @@
+Total lines in this file: 452
+Total words in this file: 12424
+Most repetitive word in the file is [and] counted [1174] times.
+Least repretitve word in the files is [abaddon] counted [1] times.
+Words beginning and ending with D: 49
+Words beginnng with A: 1930
+Total pure numbers: 403
+Total alphanumeric words: 33

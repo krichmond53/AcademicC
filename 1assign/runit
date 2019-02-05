@@ -1,0 +1,4 @@
+// gcc -o test cmsc-f16-assign.c a1support.c
+// ./test < testValues
+
+./cmsc257-f16-assign1 < testValues

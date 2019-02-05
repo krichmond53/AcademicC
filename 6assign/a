@@ -1,0 +1,537 @@
+
+Microsoft
+
+Kevin
+
+Search Microsoft
+
+    Products
+    Templates
+    Support
+
+    Apps
+    Install
+    Subscription
+    Training
+    Admin
+
+Combine text and numbers
+Applies To: Excel 2007
+
+Let's say you want to create a grammatically correct sentence from several columns of data for a mass mailing or format numbers with text without affecting formulas that use those numbers. There are several ways to combine text and numbers.
+What do you want to do?
+
+    Display text before or after a number in a cell by using a number format
+
+    Combine text and numbers from different cells into the same cell by using a formula
+
+    Functions details
+
+Display text before or after a number in a cell by using a number format
+
+If a column that you want to sort contains both numbers and text (such as Product #15, Product #100, Product #200), it may not sort as expected. You can use a number format to add text without changing the sorting behavior of the number.
+
+    Select the cells that you want to format.
+
+    On the Home tab, in the Number group, click the arrow, and then click More.
+
+    In the Category list, click a category, and then click a built-in format that resembles the one that you want.
+
+    In the Category list, click Custom.
+
+    In the Type box, edit the number format codes to create the format that you want.
+
+    To display both text and numbers in a cell, enclose the text characters in double quotation marks (" ") or precede the numbers with a backslash (\). Editing a built-in format does not remove the format.
+
+To display
+	
+
+Use this code
+
+12 as Product #12
+	
+
+"Product # " 0
+
+12:00 as 12:00 AM EST
+	
+
+h:mm AM/PM "EST"
+
+-12 as $-12.00 Shortage and 12 as $12.00 Surplus
+	
+
+$0.00 "Surplus";$-0.00 "Shortage"
+
+Top of Page
+Combine text and numbers from different cells into the same cell by using a formula
+
+To do this task, use the CONCATENATION and TEXT functions and the ampersand (&) operator.
+Example
+
+The example may be easier to understand if you copy it to a blank worksheet.
+
+How to copy an example
+
+	
+If we all gave $3, the fundraiser would be over in an hour.
+List of longest-running U.S. primetime television series
+From Wikipedia, the free encyclopedia
+
+This is a list of the longest running U.S. primetime television series, ordered by the number of broadcast seasons offered by a U.S. broadcast network or cable network in prime time on the show's original run. Broadcast syndication that could have been scheduled by local stations in prime time have been omitted.
+Television.svg This film, television or video-related list is incomplete; you can help by expanding it with reliably sourced additions.
+
+Maybe later |Close
+Dear readers, time is running out in 2016 to help Wikipedia. To protect our independence, we'll never run ads. We're sustained by donations averaging about $15. If everyone reading this right now gave $3, our fundraiser would be done within an hour. That's right, the price of a cup of coffee is all we need. If Wikipedia is useful to you, please take one minute to keep it online and growing. Thank you.
+
+Contents
+
+    1 Longest telecasted series
+        1.1 50 seasons or more
+        1.2 30–49 seasons
+        1.3 20–29 seasons
+        1.4 10–19 seasons
+    2 See also
+    3 Notes
+
+Longest telecasted series
+Series shaded in light blue are currently in production.
+50 seasons or more
+Number of
+seasons 	Series 	Network 	First broadcast 	Last broadcast 	Number of
+episodes
+64 	Hallmark Hall of Fame[1] 	NBC 	Dec 24, 1951 	Dec 17, 1978 	354
+CBS 	Nov 14, 1979 	April 30, 1981
+PBS 	Feb 9, 1981 	May 6, 1981
+CBS 	Dec 1, 1981 	Jan 29, 1989
+ABC 	April 30, 1989 	April 23, 1995
+CBS 	Dec 10, 1995 	April 24, 2011
+ABC 	Nov 27, 2011 	April 20, 2014
+Hallmark Channel 	Nov 30, 2014 	present
+53 	Walt Disney Presents[2] 	ABC 	Oct 27, 1954 	June 11, 1961 	1,224
+NBC 	Sep 24, 1961 	Aug 16, 1981
+CBS 	Sep 26, 1981 	May 3, 1983
+ABC 	Feb 2, 1986 	May 22, 1988
+NBC 	Oct 9, 1988 	Aug 26, 1990
+Disney Channel 	Sep 23, 1990 	Sep 21, 1997
+ABC 	Sep 28, 1997 	Dec 24, 2008
+Disney Junior 	March 23, 2012 	present
+30–49 seasons
+Number of
+seasons 	Series 	Network 	First broadcast 	Last broadcast 	Number of
+episodes
+48 	60 Minutes 	CBS 	September 24, 1968 	present 	
+46 	Monday Night Football 	ABC 	September 21, 1970 	December 26, 2005 	684
+ESPN 	August 14, 2006 	present 	
+44 	Masterpiece 	PBS 	January 10, 1971 	present 	
+41 	Nova 	PBS 	March 3, 1974 	present 	805
+41 	Saturday Night Live 	NBC 	October 11, 1975 	present 	808
+39 	The Victory Garden 	PBS 	April 16, 1975 	present 	
+37 	Austin City Limits 	PBS 	1976 	present 	
+37 	Live from Lincoln Center 	PBS 	January 30, 1976 	present[3] 	
+37 	Live from the Met[4] 	PBS 	1977 	present[3] 	
+37 	Inside the NFL 	HBO 	September 1977 	February 6, 2008 	
+Showtime 	September 10, 2008 	present 	
+36 	20/20 	ABC 	June 6, 1978 	present 	
+35 	Wall Street Week[5] 	PBS 	November 20, 1970 	June 24, 2005 	
+34 	This Old House 	PBS 	February 20, 1979 	present 	786+
+33 	Survivor 	CBS 	May 31, 2000 	present 	490 (at end of S32)
+33 	Firing Line 	Syndication 	1966[6] 	1971 	240
+PBS 	1971 	December 26, 1999
+33 	Mystery! 	PBS 	February 5, 1980 	present 	
+32 	The Real World[7] 	MTV 	May 21, 1992 	present 	591
+31 	Nature 	PBS 	October 10, 1982 	present 	
+30 	Frontline 	PBS 	January 17, 1983 	present 	520+
+20–29 seasons
+Number of
+seasons 	Series 	Network 	First broadcast 	Last broadcast 	Number of
+episodes
+28 	The Simpsons[8] 	Fox 	December 17, 1989 	present 	604
+27 	Cops 	Fox 	March 11, 1989 	May 2013 	928
+Spike 	September 14, 2013 	present
+27 	America's Funniest Home Videos 	ABC 	November 26, 1989 	present 	596
+26 	48 Hours[9] 	CBS 	January 2, 1988 	present 	
+26 	The Challenge 	MTV 	June 1, 1998 	present 	343
+25 	America's Most Wanted 	Fox 	February 7, 1988 	April 21, 2012 	
+Lifetime 	December 2, 2011 	October 12, 2012 	1,149
+25 	Camera Three 	CBS 	January 22, 1956 	1979 	
+PBS 	1979 	July 1, 1980
+25 	Larry King Live 	CNN 	June 3, 1985 	December 16, 2010 	6,120
+23 	The Ed Sullivan Show[10] 	CBS 	June 20, 1948 	June 6, 1971 	
+23 	Crossfire 	CNN 	1982 	June 3, 2005 	
+22 	Dancing with the Stars 	ABC 	June 5, 2005 	present 	300+
+22 	E! News[11] 	E! 	September 1, 1991 	present 	
+22 	Dateline NBC[12] 	NBC 	March 31, 1992 	present 	
+22 	National Geographic Explorer[13] 	Nickelodeon 	1985 	1986 	
+WTBS/TBS 	1986 	1999
+CNBC 	1999 	2001
+MSNBC[14] 	2001 	2005
+National Geographic 	2005 	present
+22 	WWE Monday Night Raw 	USA 	January 11, 1993 	September 18, 2000 	1125
+TNN/Spike TV 	September 25, 2000 	July 30, 2005
+USA 	August 6, 2005 	present
+22 	Grand Ole Opry[15] 	TNN 	April 20, 1985 	August 2001 	
+CMT 	August 2001 	2003
+GAC[16] 	2003 	2011
+22 	Investigative Reports 	A&E 	September 27, 1991 	2004 	
+22 	Ted Mack and The Original Amateur Hour[17] 	DuMont 	January 18, 1948 	October 1949 	
+NBC 	October 1949 	September 1954
+ABC 	October 1955 	June 1957
+NBC 	July 1957 	October 1958
+CBS 	May 1959 	October 1959
+ABC 	March 1960 	September 26, 1960
+CBS 	October 2, 1960 	September 27, 1970
+21 	The New Yankee Workshop 	PBS 	January 1988 	June 27, 2009 	
+21 	Sábado Gigante[18] 	Univisión 	May 20, 1986 	September 19, 2015 	
+20 	NFL Primetime 	ESPN 	1987 	present 	
+20 	Biography[19] 	A&E 	April 6, 1987[20] 	August 2006 	
+Biography Channel 	August 2006 	present[21]
+20 	Nick News with Linda Ellerbee 	Nickelodeon 	April 18, 1992 	present 	
+20 	South Park 	Comedy Central 	August 13, 1997 	present 	276
+20 	The Red Skelton Show 	NBC 	September 30, 1951 	June 21, 1953 	
+CBS 	September 22, 1953 	June 23, 1970
+NBC 	September 14, 1970 	August 29, 1971
+20 	Gunsmoke[22] 	CBS 	September 10, 1955 	March 31, 1975 	635
+20 	Law & Order[23] 	NBC 	September 13, 1990 	May 24, 2010 	456
+20 	Evans and Novak[24] 	CNN 	September 1982 	November 9, 2002 	
+20 	Moneyline 	CNN 	June 1, 1980 	November 11, 2000 	
+10–19 seasons
+Number of
+seasons 	Series 	Network 	First broadcast 	Last broadcast 	Number of
+episodes
+19 	ESPN Sunday Night Football[25] 	ESPN 	November 8, 1987[26] 	January 1, 2006 	
+19 	POV 	PBS 	July 5, 1988 	present 	
+19 	American Experience 	PBS 	October 1, 1988 	present 	220+
+19 	Lassie 	CBS/Syndication 	September 12, 1954 	March 21, 1973 	547
+18 	Baseball Tonight 	ESPN 	March 19, 1990 	present 	
+18 	Big Brother 	CBS 	July 5, 2000 	present 	500 >
+18 	ESPN Major League Baseball[27] 	ESPN, ESPN2[28] 	April 15, 1990 	present 	
+18 	The Bachelor 	ABC 	March 25, 2002 	present 	141
+18 	Law & Order: Special Victims Unit 	NBC 	September 20, 1999 	present 	395
+17 	What's My Line?[29]
+(network version) 	CBS 	February 16, 1950 	September 3, 1967 	867
+17 	Outside the Lines 	ESPN 	1990 	present 	
+17 	Showbiz Today 	CNN 	October 29, 1984 	2001 	
+17 	USA Tuesday Night Fights 	USA 	March 30, 1982 	1998 	
+17 	Capital Gang 	CNN 	September 7, 1988 	2005 	
+16 	The Amazing Race 	CBS 	September 5, 2001 	present 	326
+16 	Bleach 	Cartoon Network (Toonami) 	October 5, 2004 	March 27, 2012 	366
+16 	MTV Unplugged 	MTV 	November 26, 1989 	November 10, 2005[30] 	108
+16 	Booknotes 	C-SPAN 	April 2, 1989 	December 5, 2004 	
+16 	The Lawrence Welk Show[31] 	ABC 	July 2, 1955 	September 4, 1971 	
+16 	Antiques Roadshow 	PBS 	January 1, 1997 	present 	
+15 	ER 	NBC 	September 19, 1994 	April 2, 2009 	331
+15 	I've Got a Secret 	CBS 	June 19, 1952 	April 3, 1967 	350+
+15 	Concentration 	NBC 	August 25, 1958 	March 23, 1973 	3,796
+15 	The Jack Benny Program 	CBS 	October 29, 1950 	September 15, 1964 	343
+NBC 	September 25, 1964 	September 10, 1965
+15 	CSI: Crime Scene Investigation 	CBS 	October 6, 2000 	September 27, 2015 	335
+15 	American Idol 	Fox 	June 11, 2002 	April 7, 2016 	557
+14 	World Poker Tour 	Fox Sports Networks 	March 30, 2003 	present 	420
+14 	The Adventures of Ozzie and Harriet[32] 	ABC 	October 10, 1952 	September 3, 1966 	435
+14 	Bonanza[33] 	NBC 	September 12, 1959 	January 16, 1973 	430
+14 	Dallas 	CBS 	April 2, 1978 	May 3, 1991 	357
+14 	Knots Landing 	CBS 	December 27, 1979 	May 13, 1993 	344
+14 	An Evening at the Improv 	A&E 	February 3, 1982 	January 1, 1996 	
+14 	Wild America 	PBS 	1982 	1996 	120
+14 	Video Soul 	BET 	June 26, 1983 	1997 	
+14 	Family Guy 	Fox 	January 31, 1999 	February 14, 2002 	50
+May 1, 2005 	present 	219+
+14 	NCIS 	CBS 	September 23, 2003 	present 	314
+13 	King of the Hill 	Fox 	January 12, 1997 	September 13, 2009 	259
+13 	Armstrong Circle Theatre 	NBC 	June 32, 1950 	June 1957 	
+CBS 	October 1957 	August 28, 1963
+13 	Tim Russert 	CNBC 	1994 	2008 	
+13 	The 20th Century 	CBS 	October 20, 1957 	January 4, 1970 	
+13 	Unsolved Mysteries 	NBC 	January 20, 1987[34] 	September 5, 1997 	560+
+CBS 	November 13, 1997 	June 11, 1999
+Lifetime 	July 2, 2001 	September 20, 2002
+Spike TV 	October 13, 2008 	present
+13 	Grey's Anatomy [35] 	ABC 	March 27, 2005 	present 	278
+12 	To Tell the Truth 	CBS 	December 18, 1956 	September 6, 1968 	
+12 	CBS Reports 	CBS 	October 27, 1959 	September 7, 1971 	
+12 	My Three Sons 	ABC 	September 29, 1960 	September 2, 1965 	380
+CBS 	September 16, 1965 	August 24, 1972
+12 	NYPD Blue 	ABC 	September 21, 1993 	March 1, 2005 	261
+12 	Murder, She Wrote 	CBS 	September 1, 1984 	May 19, 1996 	264
+12 	Hawaii Five-O 	CBS 	September 26, 1968 	April 26, 1980 	284
+12 	Private Screenings 	TCM 	January 1, 1996 	present 	
+12 	Real Sports with Bryant Gumbel 	HBO 	1995 	present 	
+12 	Don Francisco Presenta 	Univision 	October 10, 2001 	January 2012 	
+12 	Two and a Half Men 	CBS 	September 22, 2003 	February 19, 2015 	262
+12 	Criminal Minds 	CBS 	September 22, 2005 	present 	262
+12 	Supernatural 	CW 	September 13, 2005 	present 	248
+11 	Bones 	Fox 	September 13, 2005 	present 	234
+11 	Kraft Television Theatre[36] 	NBC 	May 7, 1947 	October 1, 1958 	650
+11 	The Voice of Firestone 	NBC 	September 5, 1949 	June 1954 	
+ABC 	June 1954 	June 1959
+ABC 	September 1962 	June 16, 1963
+11 	You Bet Your Life 	NBC 	October 5, 1950 	June 29, 1961 	429
+11 	The Andy Williams Show 	CBS 	1957 	1959 	
+NBC 	1962 	1971
+11 	The Carol Burnett Show 	CBS 	September 11, 1967 	March 29, 1978 	278
+11 	M*A*S*H 	CBS 	September 17, 1972 	February 28, 1983 	251
+11 	Happy Days 	ABC 	January 15, 1974 	May 8, 1984 	255
+11 	Cheers 	NBC 	September 30, 1982 	May 20, 1993 	273
+11 	The Danny Thomas Show 	ABC 	September 20, 1953 	1957 	351
+CBS 	1957 	September 14, 1964
+11 	Frasier 	NBC 	September 16, 1993 	May 13, 2004 	265
+11 	All That 	Nickelodeon 	September 6, 1994[37] 	October 22, 2005 	178
+11 	Married... with Children 	Fox 	April 5, 1987 	June 9, 1997 	259
+11 	The Jeffersons 	CBS 	January 18, 1975 	July 23, 1985 	255
+11 	7th Heaven[38] 	WB/CW 	August 26, 1996 	May 13, 2007 	243
+11 	Arthur Godfrey and His Friends 	CBS 	January 12, 1949 	April 28, 1959 	
+11 	Mystery Science Theater 3000 	KTMA 	November 24, 1988 	May 28, 1989 	197
+Comedy Central 	November 18, 1989 	May 18, 1996
+Sci Fi 	February 1, 1997 	September 12, 1999
+11[39] 	American Dad! 	Fox/TBS 	February 6, 2005 	present 	160+
+11 	It's Always Sunny in Philadelphia 	FX/FXX 	August 4, 2005 	Present 	124
+10 	Arthur Godfrey's Talent Scouts[40] 	CBS 	December 6, 1948 	July 21, 1958 	
+10 	Studio One[41] 	CBS 	November 7, 1948 	September 29, 1958 	467
+10 	The Arthur Murray Party[42] 	ABC 	July 20, 1950 	September 1950 	
+DuMont 	October 1950 	March 1951
+ABC 	April 1951 	May 1952
+CBS 	July 1952 	August 1952
+NBC 	October 1953 	September 1955
+CBS 	April 1956 	September 1956
+NBC 	July 1957 	September 6, 1960
+10 	General Electric Theater 	CBS 	February 1, 1953 	September 16, 1962 	209
+10 	Stargate SG-1[43] 	Showtime 	July 27, 1997 	May 17, 2002 	214[44]
+Sci Fi 	June 7, 2002 	2007[45]
+10 	Alfred Hitchcock Presents[46] 	NBC 	October 2, 1955 	June 26, 1960 	366
+CBS 	September 25, 1960 	June 26, 1962[47]
+NBC 	September 20, 1962 	July 3, 1964
+CBS 	October 5, 1964 	May 10, 1965
+10 	Nashville Now 	TNN 	March 1, 1983 	January 1, 1993 	Unknown
+10 	Murphy Brown 	CBS 	November 14, 1988 	May 18, 1998 	247
+10 	Friends 	NBC 	September 22, 1994 	May 6, 2004 	236
+10 	JAG 	NBC 	September 1, 1995 	May 22, 1996[48] 	227
+CBS 	January 3, 1997 	April 29, 2005
+10 	Beverly Hills, 90210 	Fox 	October 4, 1990 	May 17, 2000 	296
+10 	Pantomime Quiz[49] 	CBS 	July 1, 1950 	August 1951 	
+NBC 	January 1952 	March 1952
+CBS 	July 1952 	May 1952
+CBS 	July 1952 	August 1953
+DuMont 	October 1953 	April 1954
+CBS 	June 1954 	August 1954
+ABC 	January 1955 	March 1955
+CBS 	July 1955 	July 1957
+ABC 	April 1958 	September 1959
+10 	The United States Steel Hour 	ABC 	October 27, 1953 	June 21, 1955 	315
+CBS 	July 6, 1955 	August 13, 1963
+10 	Smallville 	WB/CW 	October 16, 2001 	May 13, 2011 	217
+10 	Law & Order: Criminal Intent 	NBC 	September 30, 2001 	May 21, 2007 	195
+USA 	October 4, 2007 	June 26, 2011
+10 	CSI: Miami 	CBS 	September 23, 2002 	April 8, 2012 	232
+10 	SpongeBob SquarePants 	Nickelodeon 	May 1, 1999 	Present 	204
+10 	The Fairly OddParents 	Nickelodeon 	March 30, 2001 	Present 	161 (aired)
+10 	The Big Bang Theory 	CBS 	September 24, 2007 	Present 	217
+See also
+
+    Lists of longest running U.S. shows by broadcast type:
+        List of longest-running United States television series
+        List of longest-running U.S. broadcast network television series
+        List of longest-running U.S. cable television series
+        List of longest-running U.S. syndicated television series
+        List of longest-running scripted U.S. primetime television series
+        List of longest-running U.S. primetime television series with continuing characters
+    Lists of longest running shows internationally:
+        List of longest-running TV shows by category- international list
+        List of longest-running television series in UK Region
+        List of longest-running Australian television series
+    List of shortest running shows:
+        List of television series canceled after one episode
+        List of television series canceled before airing an episode
+
+Notes
+
+Originally Hallmark Playhouse radio series, was Hallmark Television Playhouse (1951–1954)
+Originally well known as The Wonderful World of Disney (1969–1979, 1997–2008), now airing as The Magical World of Disney (1988–1997, 2012–current)
+Not currently on a regular schedule
+Also known as The Metropolitan Opera Presents
+Became Wall Street Week with Fortune after original host was fired in 2002
+Pilot taped April 4, 1966
+According to MTV, 18th season begins November 22, 2006
+Longest running prime time animated program in the United States.
+Also called "48 Hours Investigates"
+Aired as Toast of the Town until 1955
+Previously E! News Daily and E! News Live
+Also known as Dateline (day of week it airs), Dateline With Stone Phillips
+Host: Tom Chapin (1985–1988), Robert Urich (1988–1995), Bob Ballard (1988–1995), Boyd Matson (1995–2003), Michael Fay (2001), Lisa Ling (2003–)
+Show renamed National Geographic Ultimate Explorer 2003–2005
+Oldest continuously running radio program, airing on WSM radio, Nashville, Tennessee
+As Grand Ole Opry Live!
+Originated on radio as Major Bowes' Original Amateur Hour, 1934–1946
+Continuation of series that aired 1962–1985 on Chile's Canal 13
+Originated on CBS
+Reran CBS originals, 1984–1987
+Rebroadcast A&E originals, 1999–2006
+Longest-running live-action prime time entertainment program with a consistent setting and recurring characters. While other prime-time shows have run longer, they are all news, sports, anthology or variety programs.
+Longest-running live-action hour-long prime time entertainment program in the United States. While Gunsmoke has accumulated more episodes (635), 233 of its episodes were half-hour dramas. All of Law & Order's episodes were an hour long.
+Other names: Evans, Novak, Hunt, and Shields (1998–2001), Novak, Hunt, and Shields (2001–2002)
+Moved to NBC in 2006, at which time Monday Night Football moves from ABC to ESPN
+Sunday Night Football shared with TNT, with TNT getting the first half of the season, ESPN the second half, 1990–1997
+Includes Sunday Night Baseball, Wednesday Night Baseball, etc.
+ESPN2 started broadcasting major league baseball games in 2002 in addition to those offered by ESPN
+Longest-running game show in prime time network television; first-run syndication 1968–1975
+New episodes sporadic after 2001
+Originally The Dodge Dancing Party; first-run syndication 1971–1982; reruns have been airing since 1982 on various PBS stations
+Longest running live-action sitcom.
+First US network series to film all its episodes in color
+Includes series of specials, Jan. 1987 to May 1988
+Ellen Pompeo has appeared in all episodes – surpassing Noah Wyle (at 254 episodes) as American TV longest serving doctor in a primetime medical drama.
+Also known as Kraft Mystery Theatre (1958); another series of the same name ran concurrently on ABC, 1953–1955
+"Special preview" airing, April 16, 1994
+Longest-running family drama on television, per Reuters article about 7th Heaven finale
+The number of seasons of American Dad! is disputed. While some sources claim 2013–14 is its ninth season, its Wikipedia articles treat it as the 10th season.
+On CBS radio 1946–1956
+Originated on CBS Radio, 1947
+The first series to be shown on four US broadcasting networks
+Longest-running science fiction series in the United States.
+According to Sci Fi Wire
+Cancellation announced by Sci Fi Channel, August 21, 2006
+The Alfred Hitchcock Hour 1962–1965
+One episode wasn't aired on network TV, but was included in later syndication packages
+One episode made its premiere on USA network as part of a JAG rerun package. The episode, planned to be the first of a two-part story, never aired on NBC before cancellation.
+
+    Originally aired locally in Los Angeles, 1947–1950
+
+Categories:
+
+    Lists of American television seriesLists of longest-running U.S. TV showsLists of longest-running television programs
+
+Navigation menu
+
+    Not logged in
+    Talk
+    Contributions
+    Create account
+    Log in
+
+    Article
+    Talk
+
+    Read
+    Edit
+    View history
+
+Search
+
+    Main page
+    Contents
+    Featured content
+    Current events
+    Random article
+    Donate to Wikipedia
+    Wikipedia store
+
+Interaction
+
+    Help
+    About Wikipedia
+    Community portal
+    Recent changes
+    Contact page
+
+Tools
+
+    What links here
+    Related changes
+    Upload file
+    Special pages
+    Permanent link
+    Page information
+    Wikidata item
+    Cite this page
+
+Print/export
+
+    Create a book
+    Download as PDF
+    Printable version
+
+Languages
+
+Add links
+
+    This page was last modified on 3 December 2016, at 11:37.
+    Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+    Privacy policy
+    About Wikipedia
+    Disclaimers
+    Contact Wikipedia
+    Developers
+    Cookie statement
+    Mobile view
+
+    Wikimedia Foundation	
+    Powered by MediaWiki	
+
+    Create a blank workbook or worksheet.
+
+    Select the example in the Help topic.
+
+Do not select the row or column headers.
+
+Selecting an example from Help
+
+Selecting an example from Help
+
+    Note: 
+
+    Press CTRL+C.
+
+    In the worksheet, select cell A1, and press CTRL+V.
+
+    To switch between viewing the results and viewing the formulas that return the results, press CTRL+` (grave accent), or on the Formulas tab, in the Formula Auditing group, click the Show Formulas button.
+
+1
+
+2
+
+3
+	
+
+A
+	
+
+B
+
+Salesperson
+	
+
+Sales
+
+Buchanan
+	
+
+28
+
+Dodsworth
+	
+
+40%
+
+Formula
+	
+
+Description (Result)
+
+=A2&" sold "&B2&" units."
+	
+
+Combines contents above into a phrase (Buchanan sold 28 units)
+
+=A3&" sold "&TEXT(B3,"0%")&" of the total sales."
+	
+
+Combines contents above into a phrase (Dodsworth sold 40% of the total sales)
+
+=CONCATENATE(A2," sold ",B2," units.")
+	
+
+Combines contents above into a phrase (Buchanan sold 28 units)
+
+Note the use of the TEXT function in the formula. When you join a number to a string of text by using the concatenation operator, use the TEXT function to format the number. The formula uses the underlying value from the referenced cell (.4 in this example) — not the formatted value you see in the cell (40%). The TEXT function restores the number formatting.
+

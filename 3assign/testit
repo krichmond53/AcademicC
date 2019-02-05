@@ -1,0 +1,2 @@
+gcc shmtest3.cpp -o test -g -Wall -lrt -pthread
+./test $1 

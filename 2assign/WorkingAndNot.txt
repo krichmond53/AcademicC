@@ -1,0 +1,6 @@
+Kevin Richmond
+CMSC 257 - Assignment 2
+WorkingAndNot.txt
+
+This is a text file listing the functions of Asssignment 2 and whether they are working or not.
+

@@ -1,0 +1,2 @@
+gcc fserver.c -g -Wall -W -o JesusSaves
+./JesusSaves

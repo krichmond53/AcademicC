@@ -1,0 +1,2 @@
+gcc norm_tran_bloc.c -Wall -W -g -o  JesusSaves -lm
+./JesusSaves
